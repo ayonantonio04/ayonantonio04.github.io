@@ -1,8 +1,8 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Data Science Projects 
+## Data Science Projects 
 
 ### [Deep Learning: sat4VGG Project](https://github.com/ayonantonio04/sat4VGG_project)
 
