@@ -13,7 +13,7 @@
 
 ---
 [Patterns In DNA: Report & Analysis](https://github.com/ayonantonio04/R_Project_Series/tree/master/Case_Study_3)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/cmv_virus.jpeg"/>
 
 ---
 
