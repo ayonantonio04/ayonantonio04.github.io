@@ -24,11 +24,10 @@
 
 ### Additional Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Sentiment Analyzer on Billboard Songs](https://github.com/ayonantonio04/Sentiment_Analyzer-Billboard_Songs/blob/master/FinalProject_group152.ipynb)
+- [Students Relationship With Vidogames: Report & Analysis](https://github.com/ayonantonio04/R_Project_Series/blob/master/Case_Study_2/CaseStudy_2_Report.pdf)
+- [Using Linear Regression to Predict the Sierra Nevada Water Supply: Report & Analysis](https://github.com/ayonantonio04/R_Project_Series/blob/master/Case_Study_4/CaseStudy_4_Report.pdf)
+
 
 ---
 
