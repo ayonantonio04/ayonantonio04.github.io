@@ -5,7 +5,7 @@
 ### Data Science Projects 
 
 [Deep Learning: sat4VGG Project](https://github.com/ayonantonio04/sat4VGG_project)
-<img src="images/vgg16_architecture.png"/>
+<img src="images/vgg16_Architecture_color.png"/>
 
 ---
 [ML Classifiers for Word2Vec Data](https://github.com/ayonantonio04/ML_Classifier_Applications_on_Word2VecData)
