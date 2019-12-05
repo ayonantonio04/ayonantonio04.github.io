@@ -4,7 +4,7 @@
 
 ### Data Science Projects 
 
-[Neural Networks](/sample_page)
+[Neural Networks](https://github.com/ayonantonio04/sat4VGG_project)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
