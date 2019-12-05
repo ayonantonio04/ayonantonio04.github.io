@@ -4,15 +4,15 @@
 
 ### Data Science Projects 
 
-[Neural Networks](https://github.com/ayonantonio04/sat4VGG_project)
+[Deep Learning: sat4VGG Project](https://github.com/ayonantonio04/sat4VGG_project)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[ML Classifiers for Word2Vec Data](https://github.com/ayonantonio04/ML_Classifier_Applications_on_Word2VecData)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Patterns In DNA: Report & Analysis](https://github.com/ayonantonio04/R_Project_Series/tree/master/Case_Study_3)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
