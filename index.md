@@ -22,7 +22,7 @@
 
 ---
 
-### Additional Projects
+## Additional Projects
 
 - [Sentiment Analyzer on Billboard Songs](https://github.com/ayonantonio04/Sentiment_Analyzer-Billboard_Songs/blob/master/FinalProject_group152.ipynb)
 - [Students Relationship With Vidogames: Report & Analysis](https://github.com/ayonantonio04/R_Project_Series/blob/master/Case_Study_2/CaseStudy_2_Report.pdf)
