@@ -3,8 +3,7 @@ logo: "images/paris_pic.JPG" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Recent graduate with a bachelor’s degree in Cognitive Science specialized in Machine Learning and Neural Computation.
   <br><br>
-  In this portfolio I have included a wide range of projects completed in groups or solo. Some reflect some of my personal interest while others are part of school projects. 
-  <br><br>
+  
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   <br><br>
 theme: jekyll-theme-minimal
