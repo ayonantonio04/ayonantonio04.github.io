@@ -15,7 +15,7 @@
 <img src="images/movie_theater.jpg"/>
 
 ---
-### [Patterns In DNA: Report & Analysis](https://github.com/ayonantonio04/R_Project_Series/tree/master/Case_Study_3)
+### [Patterns In DNA: Report & Analysis](https://github.com/ayonantonio04/R_Project_Series/blob/master/Case_Study_3/Case_Study_3_Report.pdf)
 
 
 <img src="images/cmv_virus.jpeg"/>
