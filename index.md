@@ -9,7 +9,7 @@
 
 ---
 [ML Classifiers for Word2Vec Data](https://github.com/ayonantonio04/ML_Classifier_Applications_on_Word2VecData)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/movie_theater.jpg"/>
 
 ---
 [Patterns In DNA: Report & Analysis](https://github.com/ayonantonio04/R_Project_Series/tree/master/Case_Study_3)
