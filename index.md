@@ -4,7 +4,7 @@
 
 ## Data Science Projects 
 
-### [Deep Learning: sat4VGG Project](https://github.com/ayonantonio04/sat4VGG_project)
+### [Deep Learning: Multispectral Satellite Image Classification with VGG16](https://github.com/ayonantonio04/sat4VGG_project)
 
 <img src="images/vgg16_Architecture_color.png"/>
 
