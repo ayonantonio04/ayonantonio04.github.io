@@ -9,7 +9,7 @@
 <img src="images/vgg16_Architecture_color.png"/>
 
 ---
-### [ML Classifiers for Word2Vec Data](https://github.com/ayonantonio04/ML_Classifier_Applications_on_Word2VecData)
+### [ML Classifiers On Word2Vec Data](https://github.com/ayonantonio04/ML_Classifier_Applications_on_Word2VecData)
 
 
 <img src="images/movie_theater.jpg"/>
